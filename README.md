@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![개천잉어킹배경](https://github.com/user-attachments/assets/fa39d1d7-8ac4-4692-b1a3-8ed60b55fc23)
