@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1efa5855-860e-484e-91f8-c15f0cf75a65/dog_typing_resized.gif" alt="dog_typing_resized">
-  
+  ![dog_typing_resized](https://github.com/user-attachments/assets/77d4808b-1f72-490d-90e8-9b88094078d4)
+
   <br> <!-- 줄 바꿈 -->
 
   <a href="https://git.io/typing-svg">
