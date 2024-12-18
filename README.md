@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=700&size=21&pause=1000&color=A52A2A&center=true&vCenter=true&width=500&lines=Interested+in+On+Device+AI;Edge+AI+%C2%B7+Privacy-First+%C2%B7+Real-Time+Processing" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=34&pause=1000&color=A52A2A&center=true&width=435&lines=Interested+in+On+Device+AI;Edge+AI+%C2%B7++Real-Time+%C2%B7++Lightweighting)](https://git.io/typing-svg)
