@@ -1,5 +1,6 @@
 
-![dog_resized_no_bg_corrected](https://github.com/user-attachments/assets/2a8b7625-9fd7-4da7-ba16-d862c350fefa)
+
+![dog_no_bg](https://github.com/user-attachments/assets/d53d561a-3a52-452a-917d-6f88f1f2b0cc)
 
 
 
