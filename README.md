@@ -4,6 +4,6 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=50&pause=1000&color=FFFFFF&background=0C1117&center=true&vCenter=true&width=574&height=60&lines=Interested+in+On+Device+AI;Edge+AI+%C2%B7+Real+Time+Process)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Epunda+Slab&size=40&pause=1000&color=0B430C&center=true&width=574&height=60&lines=Interested+In+On+Device+AI;Edge+AI%2C+Real+Time+Processing)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&column=5)](https://github.com/ryo-ma/github-profile-trophy)
