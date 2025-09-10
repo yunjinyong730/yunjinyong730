@@ -1,7 +1,5 @@
 
-
-![dog_no_bg](https://github.com/user-attachments/assets/d53d561a-3a52-452a-917d-6f88f1f2b0cc)
-
+![snoopy-typing](https://github.com/user-attachments/assets/cbfcc6ab-2119-4126-8b30-bbf936b97272)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Epunda+Slab&size=40&pause=1000&color=0B430C&width=574&height=60&lines=Interested+In+On+Device+AI;Edge+AI%2C+Real+Time+Processing)](https://git.io/typing-svg)
