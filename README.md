@@ -1,5 +1,6 @@
 
-![snoopyblack](https://github.com/user-attachments/assets/bbe71d34-d46b-4720-8c1c-34222f831c37)
+![487666881-e8f89cc3-31bb-49d5-a650-40b5ca2fdafd](https://github.com/user-attachments/assets/dbe87e73-e4c4-4e0a-b15b-b255a3d04423)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Epunda+Slab&size=40&pause=1000&color=0B430C&width=574&height=60&lines=Interested+In+On+Device+AI;Edge+AI%2C+Real+Time+Processing)](https://git.io/typing-svg)
