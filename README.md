@@ -33,20 +33,6 @@ GPA: **4.21 / 4.5**
 B.S. in Computer Science · **2019.03 – 2025.02**  
 GPA: **4.21 / 4.5**
 
-## Selected Work
-
-### Camera–LiDAR 6DoF Calibration Recovery
-RGB · Depth · Edge fusion for calibration drift recovery and confidence estimation.  
-→ [View project](https://github.com/yunjinyong730/LiDAR_Sensor_Calibration_Aware_Failure_Monitoring)
-
-### Camera Calibration Drift Detection & Recovery
-Homography estimation · ECC refinement · TFLite INT8 deployment.  
-→ [View project](https://github.com/yunjinyong730/Autonomous-driving-camera-calibration-drift-detection-recovery)
-
-### Knowledge Distillation on Raspberry Pi
-Teacher–Student CNN compression with Raspberry Pi-oriented inference benchmarking.  
-→ [View project](https://github.com/yunjinyong730/Custom_CNN_Waste_Classification_Knowledge_Distillation_Raspberry)
-
 ## Tech
 
 `Python` `PyTorch` `TensorFlow` `OpenCV` `TFLite` `ONNX` `Raspberry Pi` `Linux` `C/C++` `SQL`  
