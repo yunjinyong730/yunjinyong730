@@ -4,9 +4,10 @@
 
 # Hi, I'm Jinyong Yun 👋
 
-**AI/ML Engineer & Researcher** focused on **Sensor Calibration, Edge AI, On-Device AI, Model Compression, Anomaly Detection, and Autonomous Perception**.
+**AI/ML Engineer & Researcher** focused on  
+**Edge AI · Sensor Calibration · On-Device AI · Autonomous Perception**
 
-I enjoy building AI systems end-to-end — from problem formulation and model research to optimization, edge deployment, and user-facing applications.
+I build AI systems from research and modeling to **optimization, edge deployment, and real-world applications**.
 
 <p align="left">
   <a href="https://yunjinyong730.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
@@ -17,12 +18,10 @@ I enjoy building AI systems end-to-end — from problem formulation and model re
 
 ## About Me
 
-- 🎓 M.S. candidate in **Computer Engineering (AI)** at **Inha University**
-- 🔬 Researching **Sensor Calibration, Model Compression, On-Device AI, and Time-Series / Anomaly Detection**
-- ⚙️ Interested in deployment-aware AI: **latency, memory, resource efficiency, TFLite, Raspberry Pi, and embedded inference**
-- 🚗 Working on **Camera–LiDAR calibration recovery and autonomous perception reliability**
-- 📱 Also experienced in shipping real products with **Swift/UIKit, Kotlin/Android, WebRTC, and WebSocket**
-- 🌐 Portfolio: **[yunjinyong730.github.io](https://yunjinyong730.github.io/)**
+- 🔬 **Sensor Calibration · Model Compression · Anomaly Detection**
+- ⚙️ **TFLite · Raspberry Pi · Edge Deployment**
+- 🚗 **Camera–LiDAR · Autonomous Perception**
+- 📱 Product development with **Swift/UIKit · Kotlin/Android · WebRTC**
 
 ## Education
 
@@ -34,74 +33,23 @@ GPA: **4.21 / 4.5**
 B.S. in Computer Science · **2019.03 – 2025.02**  
 GPA: **4.21 / 4.5**
 
-## Research & Engineering Focus
+## Selected Work
 
-| Area | What I work on |
-|---|---|
-| **Sensor Calibration** | Reference-based calibration, drift adaptation, long-term sensor reliability |
-| **Edge / On-Device AI** | TFLite, lightweight models, Raspberry Pi, resource-aware inference |
-| **Model Compression** | Knowledge Distillation, lightweight CNNs, deployment-oriented optimization |
-| **Anomaly Detection** | Real-time sensor monitoring, robust statistics, time-series pipelines |
-| **Autonomous Perception** | Camera–LiDAR extrinsic drift, homography recovery, perception reliability |
-| **Application Engineering** | Swift/UIKit, Kotlin/Android, WebRTC, WebSocket, product delivery |
-
-## Selected AI Projects
-
-### Camera–LiDAR 6DoF Calibration Drift Recovery
-RGB · Depth · Edge · Residual fusion for calibration recovery with confidence estimation and Edge export.
-
-🔗 [LiDAR Sensor Calibration Aware Failure Monitoring](https://github.com/yunjinyong730/LiDAR_Sensor_Calibration_Aware_Failure_Monitoring)
+### Camera–LiDAR 6DoF Calibration Recovery
+RGB · Depth · Edge fusion for calibration drift recovery and confidence estimation.  
+→ [View project](https://github.com/yunjinyong730/LiDAR_Sensor_Calibration_Aware_Failure_Monitoring)
 
 ### Camera Calibration Drift Detection & Recovery
-End-to-end camera drift detection and 8D homography recovery with ECC refinement and TFLite INT8 deployment.
+Homography estimation · ECC refinement · TFLite INT8 deployment.  
+→ [View project](https://github.com/yunjinyong730/Autonomous-driving-camera-calibration-drift-detection-recovery)
 
-🔗 [Autonomous-driving Camera Calibration Drift Detection & Recovery](https://github.com/yunjinyong730/Autonomous-driving-camera-calibration-drift-detection-recovery)
+### Knowledge Distillation on Raspberry Pi
+Teacher–Student CNN compression with Raspberry Pi-oriented inference benchmarking.  
+→ [View project](https://github.com/yunjinyong730/Custom_CNN_Waste_Classification_Knowledge_Distillation_Raspberry)
 
-### Real-Time Multi-Sensor Calibration & Anomaly Detection
-Real-time calibration and robust anomaly monitoring pipeline for multiple environmental sensor channels.
+## Tech
 
-🔗 [Real-time Sensor Calibration & Anomaly Detection](https://github.com/yunjinyong730/Real_time_Sensor_Calibration_Anomaly_Detection)
+`Python` `PyTorch` `TensorFlow` `OpenCV` `TFLite` `ONNX` `Raspberry Pi` `Linux` `C/C++` `SQL`  
+`Swift` `UIKit` `Kotlin` `Android` `WebRTC` `WebSocket`
 
-### Knowledge Distillation for Raspberry Pi Edge Deployment
-Teacher–Student CNN compression pipeline with Raspberry Pi-oriented inference benchmarking.
-
-🔗 [Custom CNN Waste Classification · Knowledge Distillation · Raspberry Pi](https://github.com/yunjinyong730/Custom_CNN_Waste_Classification_Knowledge_Distillation_Raspberry)
-
-## Product Engineering
-
-Alongside AI research, I have built and released user-facing applications and real-time collaboration systems.
-
-- **머니뭐니** — iOS personal finance / goal-based asset management app
-- **어디여** — location-based reminder app using MapKit, CoreLocation, and geofencing
-- **RealWear Remote Collaboration** — Android/WebRTC-based industrial remote collaboration system
-
-🔗 Product-focused GitHub: **[github.com/jinyongyun](https://github.com/jinyongyun)**
-
-## Selected Highlights
-
-- 📄 **5 selected publications** across Sensor Calibration, On-Device AI, and applied AI research
-- 🧪 **3 funded research projects** including NRF / IITP work
-- 📱 **2 App Store releases**
-- 🏆 **KIIT 2024 Best Paper Award — Gold**
-- 🗣️ **OPIc IH**
-
-## Tech Stack
-
-**AI / ML**  
-`Python` `PyTorch` `TensorFlow` `CUDA` `Time-Series` `Computer Vision`
-
-**Edge / Deployment**  
-`TFLite` `ONNX` `Raspberry Pi` `Linux` `Model Compression`
-
-**Application / Systems**  
-`Swift` `UIKit` `Kotlin` `Android` `WebRTC` `WebSocket` `SQL` `C/C++`
-
-## Let's Connect
-
-- 🌐 Portfolio: [https://yunjinyong730.github.io/](https://yunjinyong730.github.io/)
-- 🤖 AI / Research GitHub: [github.com/yunjinyong730](https://github.com/yunjinyong730)
-- 🛠️ Product GitHub: [github.com/jinyongyun](https://github.com/jinyongyun)
-- ✉️ Email: [yunjinyong7302000@gmail.com](mailto:yunjinyong7302000@gmail.com)
-
-> **Research → Build → Deploy → Product**  
-> I aim to connect rigorous AI research with systems that actually work in the real world.
+> **Research → Build → Deploy → Product**
