@@ -27,11 +27,11 @@ I build AI systems from research and modeling to **optimization, edge deployment
 
 **Inha University**  
 M.S. in Computer Engineering (AI) · **2025.03 – 2027.02 (Expected)**  
-GPA: **4.21 / 4.5**
+GPA: **4.36 / 4.5**
 
 **Inha University**  
 B.S. in Computer Science · **2019.03 – 2025.02**  
-GPA: **4.21 / 4.5**
+GPA: **4.19 / 4.5**
 
 ## Tech
 
