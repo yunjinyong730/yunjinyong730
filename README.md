@@ -5,7 +5,7 @@
 # Hi, I'm Jinyong Yun 👋
 
 **AI/ML Engineer & Researcher** focused on  
-**Edge AI · Sensor Calibration · On-Device AI · Autonomous Perception**
+**Edge AI · Sensor Calibration · RAG · Autonomous Perception**
 
 I build AI systems from research and modeling to **optimization, edge deployment, and real-world applications**.
 
